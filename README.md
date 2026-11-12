@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/anhvh201/anhvh201/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/anhvh201/anvh201/refs/heads/snake-output/snake.svg" alt="Snake animation" />
 
 ###
